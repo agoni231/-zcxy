@@ -1,0 +1,9 @@
+psql -U postgres -W
+
+mkdir /home/beifenSQL
+touch /home/beifenSQL/fastgate2020_12-24.sql
+
+pg_dump -U postgres -d fastgate -f /home/beifenSQL/fastgate2020_12-24.sql
+pg_dump -U postgres -W -d fastgate -f /home/"pgsql-backup.$cur_time.sql"
+touch /home/beifenSQL/fastgate2021_01-07.sql
+pg_dump -U postgres -d fastgate -f /home/beifenSQL/fastgate2021_01-07.sql
