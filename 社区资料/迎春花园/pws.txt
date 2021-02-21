@@ -1,0 +1,21 @@
+迎春花园
+柞水-汇生源小区 124.47.17.22:35314
+服务器密码：hSy$Z#NAUYzi@24%
+数据库密码：hSy$zhDb%20924
+
+EGS:
+端口:内网80
+admin
+$hSy%0902@hSy
+
+端口:内网8000
+IC:
+主:admin
+*Ab123456
+
+副:huishengyuanwuye
+123456
+
+http://bms.zzxytec.cn
+hsy1001
+11111111

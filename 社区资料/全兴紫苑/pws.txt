@@ -1,0 +1,11 @@
+全兴紫苑
+服务器密码： Qx$Z#NAUYzi@02%
+数据库密码： QxZ$zhDb%2009
+web 系统密码：$Xq%0902@QzX
+qxwuye:$Ab123456
+wuyeAmin:$Qx123456
+ssh端口： 33314
+
+http://bms.zzxytec.cn
+sh0001
+11111111
